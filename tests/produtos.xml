@@ -1,0 +1,20 @@
+<dataset>
+    <table name="produtos">
+        <column>id</column>
+        <column>titulo</column>
+        <column>descricao</column>
+        <column>valor</column>
+        <row>
+            <value>1</value>
+            <value>Curso A</value>
+            <value>Curso muito top</value>
+            <value>10.00</value>
+        </row>
+        <row>
+            <value>2</value>
+            <value>Curso B</value>
+            <value>Curso muito top</value>
+            <value>11.00</value>
+        </row>
+    </table>
+</dataset>
